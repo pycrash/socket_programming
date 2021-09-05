@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-
+This project is build by miracle.
 This project was build to learn the fundamentals of socket programming. Berkeley socket interface is used for implementing whatever I learned.
 The main features of this program are :
 1. Implemented client server paradigm.

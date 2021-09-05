@@ -1,28 +1,4 @@
-/*
-stdio.h contains declarations for unput and output
 
-stdlib.h contains declarations of variable types, macros and functions
-We will be using atoi function of stlib which converts a string pointed to, by the argument into an int
-
-unistd.h contains read write close functions
-
-sys/types.h contains definitions of data types used in sysytem calls
-
-sys/socket.h contains structers needed for socket. sockaddr structure is in this file only
-
-netinet/in.h contains constants and structures needed for internet domain address. sockaddr_in is in this file only
-
-*/
-
-/*Server Model should have following functions
-1) Socket
-2) Bind
-3) listen
-4) Accept
-5) Read
-6) Write
-7) close
-*/
 
 	//Contains declarartions for input and output
 #include <stdio.h>
